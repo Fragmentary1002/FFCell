@@ -1,0 +1,4 @@
+repository "FFcell@forest-fighter@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

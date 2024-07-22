@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/OutPut/Title.unity
+    guid: cae746a581943f64b9faaa10cb8aae16
+  - enabled: 1
+    path: Assets/Scenes/OutPut/MissionSel.unity
+    guid: e906637a1c4ffc74080c08c5c63e32bf
+  - enabled: 1
+    path: Assets/Scenes/OutPut/Main 1.unity
+    guid: 68d2722419a7f134bae4c18e6f26eab9
+  - enabled: 1
+    path: Assets/Scenes/OutPut/Main 2.unity
+    guid: 9b8ef30589fb5cc4d8ed29000278f466
+  - enabled: 1
+    path: Assets/Scenes/OutPut/Main 3.unity
+    guid: 5b433f61c74caf74bab2fc543c052512
+  - enabled: 1
+    path: Assets/Scenes/OutPut/Main 4 - Copy.unity
+    guid: afcc9d1adb4eab4498e54b6af0f34e33
+  - enabled: 1
+    path: Assets/Scenes/OutPut/Main 5.unity
+    guid: a80a63abf0758a946ae0b7960b69e21a
+  - enabled: 1
+    path: Assets/Scenes/OutPut/Main 6.unity
+    guid: efb76772c84e9514fa121fa45194c9ae
+  m_configObjects: {}
